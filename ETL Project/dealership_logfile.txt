@@ -1,0 +1,50 @@
+09:23:00-Feb-06-2023,Started ETL Process
+09:23:00-Feb-06-2023,Started CSV Extract
+09:26:25-Feb-06-2023,Started ETL Process
+09:26:25-Feb-06-2023,Started CSV Extract
+09:26:25-Feb-06-2023,Ended CSV Extract
+09:26:25-Feb-06-2023,Started  Transform
+09:26:25-Feb-06-2023,Ended Transform
+09:26:25-Feb-06-2023,Started Loading
+09:28:30-Feb-06-2023,Started ETL Process
+09:28:30-Feb-06-2023,Started CSV Extract
+09:28:30-Feb-06-2023,Ended CSV Extract
+09:28:30-Feb-06-2023,Started  Transform
+09:28:30-Feb-06-2023,Ended Transform
+09:28:30-Feb-06-2023,Started Loading
+09:28:45-Feb-06-2023,Started ETL Process
+09:28:45-Feb-06-2023,Started CSV Extract
+09:28:45-Feb-06-2023,Ended CSV Extract
+09:28:45-Feb-06-2023,Started  Transform
+09:28:45-Feb-06-2023,Ended Transform
+09:28:45-Feb-06-2023,Started Loading
+09:29:17-Feb-06-2023,Started ETL Process
+09:29:17-Feb-06-2023,Started CSV Extract
+09:29:17-Feb-06-2023,Ended CSV Extract
+09:29:17-Feb-06-2023,Started  Transform
+09:29:17-Feb-06-2023,Ended Transform
+09:29:17-Feb-06-2023,Started Loading
+09:30:34-Feb-06-2023,Started ETL Process
+09:30:34-Feb-06-2023,Started CSV Extract
+09:30:34-Feb-06-2023,Ended CSV Extract
+09:30:34-Feb-06-2023,Started  Transform
+09:30:34-Feb-06-2023,Ended Transform
+09:30:34-Feb-06-2023,Started Loading
+09:32:00-Feb-06-2023,Started ETL Process
+09:32:00-Feb-06-2023,Started CSV Extract
+09:32:01-Feb-06-2023,Ended CSV Extract
+09:32:01-Feb-06-2023,Started  Transform
+09:32:01-Feb-06-2023,Ended Transform
+09:32:01-Feb-06-2023,Started Loading
+09:33:48-Feb-06-2023,Started ETL Process
+09:33:48-Feb-06-2023,Started CSV Extract
+09:33:48-Feb-06-2023,Ended CSV Extract
+09:33:48-Feb-06-2023,Started  Transform
+09:33:48-Feb-06-2023,Ended Transform
+09:33:48-Feb-06-2023,Started Loading
+09:35:40-Feb-06-2023,Started ETL Process
+09:35:40-Feb-06-2023,Started CSV Extract
+09:35:40-Feb-06-2023,Ended CSV Extract
+09:35:40-Feb-06-2023,Started  Transform
+09:35:40-Feb-06-2023,Ended Transform
+09:35:40-Feb-06-2023,Started Loading

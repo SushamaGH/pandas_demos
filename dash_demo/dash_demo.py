@@ -11,9 +11,10 @@ import numpy as np
 #Step 1
 #We need to load our data into a df and clean it up
 
-df= pd.read_csv(r"C:\Users\SamanthaGrzegorzewsk\pandas_demos\dash_demo\household_median_income_2017.csv")
+df= pd.read_csv(r"C:\Python-Git\pandas_demos\dash_demo\household_median_income_2017.csv")
 #print(df.dtypes)
 #print(df.columns.dtype)
+
 
 #trim down our dateframe to the columns we are working with
 df_new= df[['State', '2017', '2016', '2015', '2014']]
